@@ -59,3 +59,4 @@ Write-Host "`n🖼️ Opening Visual Effects Settings (choose 'Adjust for best p
 Start-Process "SystemPropertiesPerformance.exe"
 
 Write-Host "`n✅ SSD Boosting Completed. Restart is recommended." -ForegroundColor Green
+
